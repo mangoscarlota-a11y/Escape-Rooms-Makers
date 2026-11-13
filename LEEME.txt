@@ -1,0 +1,20 @@
+Texturas opcionales (gratis, sin derechos de autor / CC0)
+=========================================================
+El juego ya trae texturas generadas por código. Si quieres texturas fotográficas, descarga packs CC0 y
+copia aquí las imágenes con ESTOS nombres (png, jpg o webp):
+
+  madera.png     muebles, cofres, cuadros, puertas, zócalos
+  parquet.png    suelo
+  pared.png      paredes y techo
+  tela.png       sofá
+  alfombra.png   alfombra
+  metal.png      caja fuerte
+
+Opcional: un mapa de normales con el sufijo _normal (por ejemplo madera_normal.png).
+Las texturas deben ser repetibles (tileable). Si un archivo no existe, se usa la textura generada.
+
+Fuentes gratuitas CC0 recomendadas:
+  - Poly Haven   https://polyhaven.com/textures
+  - ambientCG    https://ambientcg.com
+  - Kenney       https://kenney.nl/assets  (también modelos 3D)
+Cuánto mide una repetición se cambia en textures.gd (campo "tile", en metros).
